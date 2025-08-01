@@ -1,6 +1,5 @@
 #  ResQA - Resume Q&A System 
 
-Based on the provided code, this is a comprehensive resume analysis and conversational Q&A system built using LlamaIndex. Let me break down each component and explain how the entire system works:
 
 ## **1. System Dependencies and Environment Setup**
 
@@ -173,24 +172,3 @@ The conversational interface makes the system accessible to non-technical users 
 
 This system represents a production-ready implementation of RAG technology specifically optimized for resume analysis, combining document processing, semantic search, advanced language modeling, and intuitive user interaction in a cohesive, well-engineered solution.
 
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/87638087/b895e648-0159-4f80-a223-8b80bf30b5b7/llamaindex_resume_qa.py
-[2] https://docs.llamaindex.ai/en/stable/understanding/indexing/indexing/
-[3] https://docs.llamaindex.ai/en/stable/understanding/querying/querying/
-[4] https://www.llamaindex.ai/blog/improved-long-and-short-term-memory-for-llamaindex-agents
-[5] https://milvus.io/ai-quick-reference/how-can-i-optimize-the-performance-of-llamaindex-queries
-[6] https://zilliz.com/ai-faq/how-do-i-optimize-search-performance-in-llamaindex
-[7] https://docs.llamaindex.ai/en/stable/examples/index_structs/doc_summary/DocSummary/
-[8] https://docs.llamaindex.ai/en/stable/examples/llama_hub/llama_pack_resume/
-[9] https://milvus.io/ai-quick-reference/how-can-i-use-llamaindex-for-document-summarization
-[10] https://towardsdatascience.com/deep-dive-into-llamaindex-workflow-event-driven-llm-architecture-8011f41f851a/
-[11] https://www.datacamp.com/tutorial/llama-index-adding-personal-data-to-llms
-[12] https://milvus.io/ai-quick-reference/how-does-llamaindex-handle-indexing-of-large-documents-eg-pdfs
-[13] https://docs.llamaindex.ai/en/stable/examples/embeddings/huggingface/
-[14] https://docs.llamaindex.ai/en/stable/module_guides/models/prompts/
-[15] https://lu.ma/t27lryii
-[16] https://www.youtube.com/watch?v=J8qIR29zCHU
-[17] https://docs.llamaindex.ai/en/stable/examples/query_engine/CustomRetrievers/
-[18] https://docs.llamaindex.ai/en/stable/examples/llm/huggingface/
-[19] https://docs.llamaindex.ai/en/v0.10.17/module_guides/models/prompts.html
-[20] https://docs.llamaindex.ai/en/latest/api_reference/packs/resume_screener/
-[21] https://docs.llamaindex.ai/en/stable/module_guides/indexing/document_management/
